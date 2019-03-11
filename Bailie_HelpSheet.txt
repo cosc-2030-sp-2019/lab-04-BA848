@@ -1,0 +1,32 @@
+(Lab00)How to comment C++? //
+
+	How to comment Python code? #
+
+	What kind of file has extention ".md"? 
+		An MD file is a text file created using one of several possible dialects of the Markdown language. 
+		It is saved in plain text format but includes inline text symbols that define how to format the text 
+		(e.g., bold, indentations, headers, table formatting).
+
+(Lab02)How to Create an Object of type T and its Pointer?
+	When you create the node you are essentially creating its pointer at the same time.
+
+(Lab03)List the Python modules that you have imported in your Python experience, and what they contain. 
+		only used the operator module
+		
+
+	And answer this question: What is the class of the ops variable? 
+		operator
+
+	(Review Ch. 5 of the Tutorial.) And what are the other general-purpose built-in container data structures in Python?
+		list (as stacks and queues)
+		Tuples and Sequences
+
+(Lab04) How to declare a "record" structure in C++. (reference to juniata.edu)
+	C++ Records, aka structs, 
+	Record - a linear, direct-access data structure with heterogeneous components. 
+	Field or member - component of the record; each field has its own type. 
+	FieldName - the identifier used to refer to the field.
+	Records are implemented as classes in C++. 
+	
+		
+		 
